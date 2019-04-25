@@ -47,9 +47,4 @@
         </dependencies>
     </dependencyManagement>
 
-    <distributionManagement>
-    </distributionManagement>
-
-    <build>
-    </build>
 </project>
